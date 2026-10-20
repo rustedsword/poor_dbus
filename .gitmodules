@@ -1,0 +1,12 @@
+[submodule "subprojects/poor_loop"]
+	path = subprojects/poor_loop
+	url = https://github.com/rustedsword/poor_loop.git
+[submodule "refs/dbus"]
+	path = refs/dbus
+	url = https://gitlab.freedesktop.org/dbus/dbus.git
+[submodule "refs/systemd"]
+	path = refs/systemd
+	url = https://github.com/systemd/systemd.git
+[submodule "refs/dbus-broker"]
+	path = refs/dbus-broker
+	url = https://github.com/bus1/dbus-broker.git
